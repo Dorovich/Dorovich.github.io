@@ -6,5 +6,8 @@ a/
 b/
 ![](b/screenshot.png)
 
+c/
+![](c/screenshot.png)
+
 Vista previa: https://dorovich.github.io/b
 > Idea original: https://github.com/voxie12/voxie12.github.io 
