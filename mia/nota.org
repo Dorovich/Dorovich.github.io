@@ -4,4 +4,13 @@
     html { background-color: #151515; color: #e8e3e3; }
     h2 { color: #bc5366; }
     h3 { color: #5b9c5f; }
-    h4 { color: #987189; }
+    h4 { color: #cac7a6; }
+    td { color: #e8e3e3; }
+
+*Y CAMBIAR LA LÍNEA*
+
+    table { border-collapse:collapse; }
+
+*POR:*
+
+    table { border-collapse:collapse; color: #424242; }
