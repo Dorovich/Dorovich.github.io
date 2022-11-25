@@ -1,0 +1,7 @@
+*CUANDO SE ACTUALIZE index.html INSERTAR AL FINAL DE <style></style> LAS SIGUIENTES LÍNEAS:*
+
+    /* colores personalizados */
+    html { background-color: #151515; color: #e8e3e3; }
+    h2 { color: #bc5366; }
+    h3 { color: #5b9c5f; }
+    h4 { color: #987189; }
