@@ -1,13 +1,7 @@
 ### Mis páginas de inicio personales :)
 
-a/
-![](a/screenshot.png)
+**cosas nuevas** -> https://dorovich.github.io/mia
+![](mia/imgs/riko_gang.png)
 
-b/
-![](b/screenshot.png)
-
-c/
-![](c/screenshot.png)
-
-Vista previa: https://dorovich.github.io/b
+_Vista previa: https://dorovich.github.io/b_
 > Idea original: https://github.com/voxie12/voxie12.github.io 
